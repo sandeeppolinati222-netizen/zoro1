@@ -1,0 +1,7 @@
+{
+  "name": "Zoro",
+  "description": "An AI-powered platform for structured placement preparation, featuring interview simulation, resume analysis, and personalized career roadmaps.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
